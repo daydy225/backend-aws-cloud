@@ -1,0 +1,18 @@
+POST http://localhost:3030/api/participants
+Content-Type: application/json
+
+{
+    "firstname": "Ange",
+    "lastname": "Konan",
+    "email": "AngeKonan@mail.com",
+    "phone": "1234567890"  
+}
+
+
+
+# {
+#     "firstname": "John",
+#     "lastname": "Doe",
+#     "email": "JohnDoe@mail.com",
+#     "phone": "1234567890"  
+# }
